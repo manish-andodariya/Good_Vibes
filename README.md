@@ -1,6 +1,6 @@
 # good_wibes
 
-A new Flutter project.
+A new Flutter project with beautifull UI that shows Daily quotes from internet.
 
 ## Getting Started
 
